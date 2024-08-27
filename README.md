@@ -4,7 +4,7 @@
 
 # <h2 align="center"> Descripción del Proyecto</h2>
 <p> 
-Para abordar la predicción de satisfacción, se emplearán dos modelos distintos: el algoritmo de aprendizaje supervisado, Random Forest, y el algoritmo de agrupamiento no supervisado, K-means. Estos modelos ofrecen enfoques complementarios, uno centrado en la precisión de la predicción y otro en la identificación de patrones y segmentos de clientes con características similares.
+Para abordar la predicción de satisfacción, se emplearon dos modelos distintos: el algoritmo de aprendizaje supervisado, Random Forest, y el algoritmo de agrupamiento no supervisado, K-means. Estos modelos ofrecen enfoques complementarios, uno centrado en la precisión de la predicción y otro en la identificación de patrones y segmentos de clientes con características similares.
 Se usan herramientas como Pandas para manipular datos, junto con la aplicación de técnicas de preprocesamiento. se realiza también limpieza de datos (revisión de valores nulos y valores duplicados del dataframe, Completando los valores faltantes en la columna “Arrival Delay”,) y el análisis exploratorio de características por medio de gráficas y análisis de estos gráficos obtenidos, para identificar características que no se consideran relevantes para el estudio de caso.
 </p>
 
